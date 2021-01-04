@@ -26,6 +26,7 @@ Notepad++/Bbedit - CSV file (comma separated values) - regular expression mode d
 
 ## Examples
 ```
+Pasting history here. Some might have failed but it is useful for quick recollection.
 grep 'fooa*bar' regex.txt
 grep 'foox*bar' regex.txt
 grep 'foox+bar' regex.txt
